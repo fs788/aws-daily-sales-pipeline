@@ -1,0 +1,28 @@
+# CDK
+cdk.out/
+*.js.map
+*.d.ts
+*.tgz
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environment
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.zip
